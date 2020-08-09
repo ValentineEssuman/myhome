@@ -1,0 +1,252 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link rel="stylesheet" type="text/css" href="/Content/_Reset.css" /><link rel="stylesheet" type="text/css" href="/Content/jquery-ui-1.8.14.custom.css" /><script src="/Content/jquery-1.9.1.min.js" type="text/javascript"></script><script src="/Content/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script><script src="/Content/Geeks.Scripts.js" type="text/javascript"></script><script src="/Content/Reflection.js" type="text/javascript"></script><script src="/Content/CollapsibleCheckBoxList.js" type="text/javascript"></script><script src="/Content/Geeks.jQuery.Extensions.js" type="text/javascript"></script><title>
+	View your optimized image
+</title><meta http-equiv="Page-Enter" content="blendTrans(Duration=0.1)" />
+    <script src="/Content/Geeks.Scripts.js" type="text/javascript"></script>
+    <link href="../App_Templates/_Reset.css" type="text/css" rel="stylesheet" /><link href="../App_Templates/FrontEnd/Mazdak.css" type="text/css" rel="stylesheet" /><link href="../App_Templates/FrontEnd/Standard.css" type="text/css" rel="stylesheet" /><link href="../App_Templates/FrontEnd/Menu.css" type="text/css" rel="stylesheet" /><link href="../App_Templates/FrontEnd/Template.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="./View-optimized-image.aspx?id=5effc2ce-cae8-429b-b555-4af00c3f96c8" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_DefaultScriptManager_HiddenField" id="ctl00_DefaultScriptManager_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNzkzMTUxNTEPZBYCZg9kFgQCAQ9kFgICCA8WAh4HVmlzaWJsZWhkAgMPZBYIAgMPZBYCAgMPZBYMAgEPFgIeBWNsYXNzBQhzZWxlY3RlZBYCAgEPDxYCHgtOYXZpZ2F0ZVVybAUKL0hvbWUuYXNweGRkAgMPFgIfAWUWAgIBDw8WAh8CBQ4vRG93bmxvYWQuYXNweGRkAgUPFgIfAWUWAgIBDw8WAh8CBQsvU2hhcmUuYXNweGRkAgcPFgIfAWUWAgIBDw8WAh8CBQkvRkFRLmFzcHhkZAIJDxYCHwFlFgICAQ8PFgIfAgUQL0NvbnRhY3QtdXMuYXNweGRkAgsPFgIfAGgWAgIBDxYCHwFlFgICAQ8PFgIfAgURL0ludGVncmF0aW9uLmFzcHhkZAIFD2QWBgIBD2QWBAIBDxYCHwFlFgICAQ8PFgIfAgURL0ludGVncmF0aW9uLmFzcHhkZAIDDxYCHwFlFgICAQ8PFgIfAgUcL0ludGVncmF0aW9uL0hvdy10by11c2UuYXNweGRkAgMPZBYCAgEPFgIfAWUWAgIBDw8WAh8CBRcvSW50ZWdyYXRpb24vVHJpYWwuYXNweGRkAgUPZBYGAgEPFgIfAWUWAgIBDw8WAh8CBUgvSW50ZWdyYXRpb24vUHVyY2hhc2UtQVBJLmFzcHg/dHlwZT1hNDk5MDAyNS02YTc2LTRkNDMtOWFjOS0wMjViZWMzOTM4NTFkZAIDDxYCHwFlFgICAQ8PFgIfAgVIL0ludGVncmF0aW9uL1B1cmNoYXNlLUFQSS5hc3B4P3R5cGU9ZjYzMmFlYmQtZGJlYi00MmJkLTg2MDctOTU5MzQyZjdhMTIxZGQCBQ8WAh8BZRYCAgEPDxYCHwIFSC9JbnRlZ3JhdGlvbi9QdXJjaGFzZS1BUEkuYXNweD90eXBlPWJhZWZjMGZmLTQ2NTctNDE1Yy1iMWEzLTAwM2Y1MzJjODZiZWRkAgcPZBYEAgEPZBYCZg8VBwEwATABMAEwATABMAEwZAIDD2QWBAIBDw8WAh8CBQovSG9tZS5hc3B4ZGQCAw8PFgIfAgUOL0Rvd25sb2FkLmFzcHhkZAIJD2QWAmYPFQEEMjAyMGRkKNnZJ6N6T0nZO1crR/4uj7Eq1Am4NG3M+YuNfmu/pgg=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=WjWYNQM6OuZJ7VjF5l1wfeypAttZpwWO1cKyCp3fAh1zKlj3XP_gS6IOittl42sNO0MlX2qBxNJgAui_Z-OhqDGSuULXfHryLtlAsg9Kpbw1&amp;t=636776725224055265" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=g7bTw3OSE6f2ffcnqpaaG53OoPg9_0vug75C5ovg6pcpWEkL0qAN84TcmAx1vHSyq2pqfDI5MH9eKN69xWLIP2lvkGhtXeoIrO5U8-HGsUAl0JKQG29Z6YJn05M65gEZhW4d4uZeBclJyijZQG7eLQ2&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=8yjwprEgKb3-9YV7XROXzv7y2wEd6zOjWeoOD3kouY84b80bCTZDynQdX8iVrHWx4bq1GoD3ouASZz7b9wR_I1upY-FiCllyfIlw9OtmTzUyFiatz-1bj_DGYeoknjinS0lv4lba0J2N30POAPR7_w2&amp;t=7c776dc1" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AD4AEA2A" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$DefaultScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    <div class="website-container">
+        
+<div class="banner">
+    <a href="/"><img src="../Images/Banner.jpg" alt="" style="border-width:0px;" /></a><br />
+    
+<!-- «Start| Main menu» -->
+<div class='[#EMPTY#]'>
+  <span class='main-menu'>
+    <span class="selected">
+      <div class="item">
+        <a href="/Home.aspx">
+          Optimize Now!
+        </a>
+      </div>
+    </span>
+    <span class="">
+      <div class="item">
+        <a href="/Download.aspx">
+          Download
+        </a>
+      </div>
+    </span>
+    <!--<span class="">
+      <div class="item">
+        <a href="/Share.aspx">
+          Share!
+        </a>
+      </div>
+    </span>-->
+    <span class="">
+      <div class="item">
+        <a href="/FAQ.aspx">
+          FAQ
+        </a>
+      </div>
+    </span>
+    <span class="">
+      <div class="item">
+        <a href="/Contact-us.aspx">
+          Contact us
+        </a>
+      </div>
+    </span>
+    
+  </span>
+</div>
+<!-- «End| Main menu» -->
+</div>
+
+        <div class="body">
+            
+<div class="left-column">
+    
+
+    
+</div>
+
+            
+  <div>
+    
+<!-- «Start| Optimization report» -->
+<h1>
+  Your image is now optimized!
+</h1>
+<div class="optimization-report">
+  <div class="box">
+    <h3>
+      Original Image
+    </h3>
+    <br/>
+    <div class="red">
+      0 x 0
+      <br/>
+      <b>
+        0
+      </b>
+      KB
+    </div>
+  </div>
+  <div class="box">
+    <center>
+      <br/>
+      <br/>
+      <img alt="arrow" src="/Images/Optimizearrow.gif" />
+      <br/>
+      (Optimized in 0 seconds)
+    </center>
+  </div>
+  <div class="box">
+    <h3>
+      Optimized
+    </h3>
+    <br/>
+    <div class="green">
+      0 x 0
+      <br/>
+      <b>
+        0
+      </b>
+      KB
+    </div>
+    <input type="submit" name="ctl00$Main$ctl00$btnDownloadToYourComputer" value="Download to your computer" id="ctl00_Main_ctl00_btnDownloadToYourComputer" />
+  </div>
+</div>
+<!-- «End| Optimization report» -->
+  </div>
+  <div>
+    
+<!-- «Start| Promote downloading» -->
+<h2>
+  Your image is optimized.
+</h2>
+<p>
+  You can
+  <a id="ctl00_Main_ctl01_btnOptimizeAnother" href="/Home.aspx">optimize another</a>
+  image. Or why not
+  <a id="ctl00_Main_ctl01_btnDownloadImageOptimizer" href="/Download.aspx">Download Image Optimizer</a>
+  , so it runs very fast on your own computer?
+</p>
+
+
+
+<hr style='margin-top:70px; margin-bottom:70px;/>
+
+ <p style='font-weight:bold; font-family: Roboto; font-size:16px; color:#444; text-transform:none'>From the Creators of Image Optimizer</p>
+  <h1 style='color:#000'>WordUp Vocabulary: Perfect your English, the easy way!</h1>
+  <a style='color:#fff; background:#54BAC6; border-radius:15px; box-shadow: #000 5px 5px 10px -5px; display:inline-block; padding:20px;' href='http://wordupapp.co/' target='_blank'>Learn More</a>
+  <br/><br/><br/>
+  <iframe src="https://player.vimeo.com/video/388978633" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <br/>
+  <br/>
+  <div class="stores_grid">
+                                <a class="applestore" href="https://itunes.apple.com/app/wordup-smarter-vocabulary/id1365078730?mt=8" target="_blank" alt="apple store">
+                                    <img src="https://www.wordupapp.co/assets/img/appstore.svg">
+                                </a>&nbsp;&nbsp;
+                                <a class="playstore" href="https://play.google.com/store/apps/details?id=co.wordupapp.app" target="_blank" alt="google play store">
+                                    <img src="https://www.wordupapp.co/assets/img/googleplay.svg">
+                                </a>                                
+                            </div>  
+<!-- «End| Promote downloading» -->
+  </div>
+
+        </div>
+    </div>
+    
+<div class="footer">
+    <hr />
+    Copyright&nbsp;&copy;&nbsp;2020 ImageOptimizer.Net - All rights reserved<br>
+    A product of Geeks Ltd, <a href="http://www.geeks.ltd.uk/home.html">Software Development
+        company in London</a></div>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_DefaultScriptManager_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-4013727-4");
+        pageTracker._trackPageview();
+    </script>
+    <!-- Cookie Control -->
+    <script src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
+    <script src="/Content/cookieControl-4.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">//<![CDATA[
+        cookieControl({
+            introText: "<p>The cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you navigate to the site, submit a form, login or interact with the site.</p>",
+            fullText: "",
+            position: 'left', // left or right
+            shape: 'triangle', // triangle or diamond
+            theme: 'light', // light or dark
+            startOpen: true,
+            autoHide: 6000,
+            subdomains: true,
+            onAccept: function () { }, // NOTE: we don't stop the analytics before user accepts. Instead we advise them to leave if they don't want this.
+            onReady: function () { },
+            onCookiesAllowed: function () { },
+            onCookiesNotAllowed: function () { },
+            countries: 'United Kingdom' // Or supply a list ['United Kingdom', 'Greece']
+        });
+       //]]>
+    </script>
+</body>
+</html>
