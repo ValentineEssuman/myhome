@@ -20,7 +20,7 @@ export default class Introduction extends Component {
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style={{backgroundImage: "url(images/lincoln.jpg)"}}>
+				   	<li style={{backgroundImage: "url(.images/lincoln.jpg)"}}>
 				   		<div className="overlay"></div>
 				   		<div className="container-fluid">
 				   			<div className="row">
@@ -28,7 +28,7 @@ export default class Introduction extends Component {
 					   				<div className="slider-text-inner">
 					   					<div className="desc">
 						   					<h1>I am Valentine <br/>Building Things</h1>
-												<p><a className="btn btn-primary btn-learn"> My Creations <i className="icon-briefcase3"></i></a></p>
+												<p><a className="btn btn-primary btn-learn" href="#"> My Creations <i className="icon-briefcase3"></i></a></p>
 										</div>
 					   				</div>
 					   			</div>
