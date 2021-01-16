@@ -26,7 +26,7 @@ export default class Sibebar extends Component{
             <div className="text-center">
               <div className="author-img" style= {{ backgroundImage: "url(images/man1.jpg)"}}></div>
               <h1 id="colorlib-logo"><a href="index.html">{props.name}</a></h1>
-              <span className="position"><a href="#">{props.career} | {props.interest} | {props.sdg} </a><p> in Ghana</p></span>
+              <span className="position"><a href="/#">{props.career} | {props.interest} | {props.sdg} </a><p> in Ghana</p></span>
             </div>
         )
       }
@@ -34,7 +34,7 @@ export default class Sibebar extends Component{
       const NavItems = pages.map(
         (page, index) => 
         <li key={index}>
-          <a href="#" data-nav-section = {page.toLowerCase()} >{page}</a>
+          <a href="/#" data-nav-section = {page.toLowerCase()} >{page}</a>
         </li>
       );
 
