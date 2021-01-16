@@ -41,7 +41,7 @@ export default class Sibebar extends Component{
       function ListNavElements(){
         return (
           <ul>
-           <li className="active"><a href="#" data-nav-section="home">Home</a></li>
+           <li className="active"><a href="/#" data-nav-section="home">Home</a></li>
               {NavItems}
             </ul>);
       }
@@ -63,8 +63,8 @@ export default class Sibebar extends Component{
     
         return (
               <div>
-                <a href="#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-                  <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
+                <a href="/#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                  <aside id="colorlib-aside" className="border js-fullheight">
                       <Profile name="Justice V. Essuman" career = "Engineer" interest = "EV-Enthusiat" sdg = "SDG-13"/>
 
                       <nav id="colorlib-main-menu" role="navigation" className="navbar">
